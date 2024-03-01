@@ -1,6 +1,6 @@
 #background-video {
-    height: 80vh;
-    width: 100vw;
+    height: 640;
+    width: 360;
     object-fit: cover;
     position: fixed;
     left: 0;
